@@ -485,15 +485,6 @@ padding-bottom: (@paddingBottom * 15px);
 }
 }
 
-#msg-box3-u {
-.mbr-header .mbr-header__text {
-  text-align: center;
-}
-.mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-}
-
 #header4-h {
 H1 {
   color: #7ac673;
@@ -575,5 +566,14 @@ H1 {
 }
 .mbr-article {
   color: #ffffff;
+}
+}
+
+#msg-box3-u {
+.mbr-header .mbr-header__text {
+  text-align: center;
+}
+.mbr-header .mbr-header__subtext {
+  text-align: center;
 }
 }
